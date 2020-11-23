@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This is a landing page project made for Udacity Nanno Degree provided by Itida
+This is a landing page project made for Web Development Professional Nanodegree Program.
 
 * [Highlights](#Highlights)
 
